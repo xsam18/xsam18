@@ -14,7 +14,7 @@ Soy un apasionado aprendiz de programación, siempre buscando nuevos desafíos y
 * 🧠  Estoy aprendiendo PROGRAMACION
 * 🤝  estoy abierto a colaborar en GIT HUB Y PYTHON
 
-### Skills
+### HABILIDADES
 
 
 <p align="left">
@@ -22,11 +22,11 @@ Soy un apasionado aprendiz de programación, siempre buscando nuevos desafíos y
 </p>
 
 
-### Socials
+### REDES SOCIALES
 
 <p align="left"> <a href="https://www.github.com//xsam18" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/miguel-angel-munera-a0a561262" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### INSIGNIAS
 
 <b>My GitHub Stats</b>
 
@@ -36,7 +36,7 @@ Soy un apasionado aprendiz de programación, siempre buscando nuevos desafíos y
 
 <a href="https://github.com//xsam18" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=/xsam18&langs_count=10&title_color=ffffff&text_color=84cc16&icon_color=f97316&bg_color=7f1d1d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
+### APOYAME
 
 <ul style="list-style-type: none; margin: 0;">
 
